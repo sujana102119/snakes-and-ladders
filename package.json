@@ -1,0 +1,23 @@
+{
+  "name": "snakes-and-ladders",
+  "version": "1.0.0",
+  "description": "Simulator for the game - snakes and ladders",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujana102119/snakes-and-ladders.git"
+  },
+  "author": "Sujana R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujana102119/snakes-and-ladders/issues"
+  },
+  "homepage": "https://github.com/sujana102119/snakes-and-ladders#readme",
+  "devDependencies": {
+    "eslint": "^8.15.0"
+  }
+}

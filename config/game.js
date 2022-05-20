@@ -1,0 +1,7 @@
+const PLAYER_COUNT = 1;
+const NUMBER_OF_SIMULATIONS = 1;
+
+module.exports = {
+	PLAYER_COUNT,
+	NUMBER_OF_SIMULATIONS
+};
