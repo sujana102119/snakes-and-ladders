@@ -1,5 +1,5 @@
-const SIMULATION_CONFIG = require('./simulation');
 const GAME_CONFIG = require('./game');
+const SIMULATION_CONFIG = require('./simulation');
 
 module.exports = {
 	SIMULATION_CONFIG,
